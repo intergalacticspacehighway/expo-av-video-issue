@@ -1,0 +1,6 @@
+module Pods_expoavvideo {
+  umbrella header "Pods-expoavvideo-umbrella.h"
+
+  export *
+  module * { export * }
+}
